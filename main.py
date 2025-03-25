@@ -8,10 +8,10 @@ My_Api = [
         "bio": "Web Developer & AI Enthusiast, specializing in e-commerce solutions, AI agents, and modern UI/UX.",
         "contact": {
             "email": "ahmed@example.com",
-            "phone": "+1234567890",
-            "website": "https://ahmedxyz.com",
-            "github": "https://github.com/ahmedxyz",
-            "linkedin": "https://linkedin.com/in/ahmedxyz"
+            "phone": "+923368952826",
+            "website": "https://ahmed-portfolio-zovd.vercel.app/",
+            "github": "https://github.com/AhmedCoder2233/",
+            "linkedin": "https://www.linkedin.com/in/ahmed-memon-5550642b5/"
         },
         "skills": [
             "Next.js",
@@ -28,12 +28,12 @@ My_Api = [
             {
                 "name": "Bandage Store",
                 "description": "An e-commerce store with VIP UI/UX and advanced admin panel.",
-                "link": "https://bandage.xyz"
+                "link": "https://final-hackathon-3-zzop.vercel.app/"
             },
             {
                 "name": "Minecraft Store",
                 "description": "A store for selling Minecraft-related items with user authentication.",
-                "link": "https://minecraftstore.com"
+                "link": "https://mine-craft-website.vercel.app/"
             }
         ],
         "education": [
@@ -66,24 +66,24 @@ My_Api = [
             {
                 "name": "Website Development",
                 "description": "Professional and modern websites for businesses and personal brands.",
-                "price_range": "$500 - $2000"
+                "price_range": "$80 - $120"
             },
             {
                 "name": "E-commerce Development",
                 "description": "Fully functional e-commerce stores with payment integration.",
-                "price_range": "$700 - $3000"
+                "price_range": "$200 - $300"
             },
             {
                 "name": "AI Chatbots & Agents",
                 "description": "Custom AI chatbots and assistants for automation and business solutions.",
-                "price_range": "$1000 - $5000"
+                "price_range": "$400 - $600"
             }
         ],
         "pricing": {
-            "basic_website": "$500",
-            "advanced_website": "$1200",
-            "ecommerce_store": "$2000",
-            "custom_ai_agent": "$3000"
+            "basic_website": "$80 - $120",
+            "advanced_website": "$160",
+            "ecommerce_store": "$200 - $300",
+            "custom_ai_agent": "$500"
         }
     }
 ]
